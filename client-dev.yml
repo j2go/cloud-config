@@ -4,5 +4,5 @@ spring:
   application:
     name: clientA
 
-hello
+hello:
   answer: go for it!
